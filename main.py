@@ -8,7 +8,7 @@ from streamlit_autorefresh import st_autorefresh
 # CONFIG
 # ==========================================================
 
-API_URL = "http://45.61.60.110:8002/bollinger"  # change if VPS
+API_URL = "http://74.208.190.247:8001/bollinger"  # change if VPS
 USERNAME = "OrivisAlpha"
 PASSWORD = "Orivis"
 REFRESH_INTERVAL_MS = 180000  # 3 minutes in milliseconds
